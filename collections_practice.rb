@@ -18,7 +18,6 @@ end
 def reverse_array(array)
   copy = array.reverse
   copy
-
 end
 
 def kesha_maker(array)
